@@ -1,4 +1,4 @@
-# 🎧 Next Gen Tech Website
+# 📱 Next Gen Tech Website
 
 - Dark interface.
 - With 2 active pages.
